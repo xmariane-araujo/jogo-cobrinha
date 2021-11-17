@@ -2,4 +2,4 @@
 
 
 
-Reprodução do clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.
+Desenvolvimento do clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.
